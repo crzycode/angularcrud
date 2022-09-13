@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "mangaljknjn",
+      "lastname": "singh",
+      "email": "singh",
+      "number": 5454,
+      "salary": "545454"
+    },
+    {
+      "id": 3,
+      "firstname": "rakesh",
+      "lastname": "rahul",
+      "email": "sfsdjjjjkkj",
+      "number": 3243,
+      "salary": "324234"
+    },
+    {
+      "id": 4,
+      "firstname": "mangal",
+      "lastname": "singh",
+      "email": "singhmagnal",
+      "number": 34234,
+      "salary": "234234"
+    },
+    {
+      "id": 5,
+      "firstname": "mangal",
+      "lastname": "rahul",
+      "email": "sdfsd",
+      "number": 34432,
+      "salary": "2342"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
